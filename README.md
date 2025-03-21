@@ -1,1 +1,1 @@
-a CSIE student with grit.
+a CSIE student with only grit.
