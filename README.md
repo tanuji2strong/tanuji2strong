@@ -43,13 +43,13 @@ Real-time gesture-driven music conductor that runs entirely in the browser. Dete
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=tanuji2strong&show_icons=true&hide_border=true&theme=default&hide=stars"
     height="150"
     alt="GitHub Stats"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuji2strong&layout=compact&hide_border=true&theme=default"
     height="150"
     alt="Top Languages"
   />
