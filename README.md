@@ -42,15 +42,6 @@ Real-time gesture-driven music conductor that runs entirely in the browser. Dete
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanuji2strong&show_icons=true&hide_border=true&theme=default&hide=stars"
-    height="150"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuji2strong&layout=compact&hide_border=true&theme=default"
-    height="150"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanuji2strong&show_icons=true&hide_border=true&theme=github_dark&hide=stars" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuji2strong&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" height="150" />
 </p>
